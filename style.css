@@ -1,0 +1,62 @@
+html {
+  box-sizing: border-box;
+  background-color: #fff
+}
+
+header {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: lighter;
+  background-color: #fff
+}
+
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+div {
+  background-color: #b2e1d9; light aqua
+}
+
+main {
+  background-color: #ffeeb175; pale yellow
+  flex-grow: 1;
+  padding: 40px;
+}
+
+footer{
+  background-color: #b2e1d9; light aqua
+}
+
+.images {
+  border-left-style: solid;
+  border-left-color: #fbc78d; light orange;
+  border-left-width: thick;
+  border-bottom-style: solid;
+  border-bottom-color: #fbc78d; light orange;
+  border-bottom-width: thick;
+}
+
+
+#navbar {
+  height: 60px;
+  background: #b2e1d9; light aqua
+}
+
+.menu {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.menu-item {
+  padding-left: 60px;
+}
+
+ul#horizontal-list {
+  min-width: 300px;
+  list-style:none;
+  padding-top: 20px
+}
+  ul#horizontal-list li {
+    display: inline;
+  }
