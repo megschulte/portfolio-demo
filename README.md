@@ -1,1 +1,0 @@
-Meg Schulte Static Site
